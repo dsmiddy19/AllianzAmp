@@ -8,4 +8,60 @@ X-WR-CALDESC:Concert schedule for Allianz Amphitheater at Riverfront, Rich
 X-WR-CALNAME:Allianz Amphitheater at Riverfront Shows
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Dermot Kennedy: The Weight of the Woods Tour
+DTSTART;TZID=America/New_York:20261001T200000
+DTEND;TZID=America/New_York:20261001T230000
+DTSTAMP:20260904T132239Z
+UID:6d68d5c6-9363-5380-80d7-1c865ae4bf35
+DESCRIPTION:Tickets: https://www.ticketmaster.com/dermot-kennedy-the-weigh
+ t-of-the-richmond-virginia-10-01-2026/event/01006477764C4EF4\n\nAllianz Am
+ phitheater at Riverfront\n350 Tredegar Street\, Richmond\, VA 23219
+LOCATION:Allianz Amphitheater at Riverfront\, 350 Tredegar Street\, Richmo
+ nd\, VA 23219
+URL:https://www.ticketmaster.com/dermot-kennedy-the-weight-of-the-richmond
+ -virginia-10-01-2026/event/01006477764C4EF4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Turnpike Troubadours
+DTSTART;TZID=America/New_York:20261003T190000
+DTEND;TZID=America/New_York:20261003T220000
+DTSTAMP:20260904T132239Z
+UID:dcbea0ab-71fd-5a05-8cc8-7004c6e40054
+DESCRIPTION:Tickets: https://www.ticketmaster.com/turnpike-troubadours-ric
+ hmond-virginia-10-03-2026/event/01006473871A77AB\n\nAllianz Amphitheater a
+ t Riverfront\n350 Tredegar Street\, Richmond\, VA 23219
+LOCATION:Allianz Amphitheater at Riverfront\, 350 Tredegar Street\, Richmo
+ nd\, VA 23219
+URL:https://www.ticketmaster.com/turnpike-troubadours-richmond-virginia-10
+ -03-2026/event/01006473871A77AB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phish
+DTSTART;TZID=America/New_York:20261006T190000
+DTEND;TZID=America/New_York:20261006T220000
+DTSTAMP:20260904T132239Z
+UID:77294ea8-0c41-54a4-93bf-660c8e7eef7d
+DESCRIPTION:Tickets: https://www.ticketmaster.com/phish-richmond-virginia-
+ 10-06-2026/event/010064FCE0E07CA0\n\nAllianz Amphitheater at Riverfront\n3
+ 50 Tredegar Street\, Richmond\, VA 23219
+LOCATION:Allianz Amphitheater at Riverfront\, 350 Tredegar Street\, Richmo
+ nd\, VA 23219
+URL:https://www.ticketmaster.com/phish-richmond-virginia-10-06-2026/event/
+ 010064FCE0E07CA0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phish
+DTSTART;TZID=America/New_York:20261007T190000
+DTEND;TZID=America/New_York:20261007T220000
+DTSTAMP:20260904T132239Z
+UID:9b2c7b74-9542-5080-b707-9e2a941d391f
+DESCRIPTION:Tickets: https://www.ticketmaster.com/phish-richmond-virginia-
+ 10-07-2026/event/010064FCE0E47CB7\n\nAllianz Amphitheater at Riverfront\n3
+ 50 Tredegar Street\, Richmond\, VA 23219
+LOCATION:Allianz Amphitheater at Riverfront\, 350 Tredegar Street\, Richmo
+ nd\, VA 23219
+URL:https://www.ticketmaster.com/phish-richmond-virginia-10-07-2026/event/
+ 010064FCE0E47CB7
+END:VEVENT
 END:VCALENDAR
