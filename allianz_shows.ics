@@ -8,18 +8,4 @@ X-WR-CALDESC:Concert schedule for Allianz Amphitheater at Riverfront, Rich
 X-WR-CALNAME:Allianz Amphitheater at Riverfront Shows
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-WR-TIMEZONE:America/New_York
-BEGIN:VEVENT
-SUMMARY:Matchbox Twenty - 30
-DTSTART;TZID=America/New_York:20270714T193000
-DTEND;TZID=America/New_York:20270714T223000
-DTSTAMP:20261017T125027Z
-UID:6f20f7a9-a674-54ca-bfe1-a5c4a216b59f
-DESCRIPTION:Tickets: https://www.ticketmaster.com/matchbox-twenty-30-richm
- ond-virginia-07-14-2027/event/01006541D68FD83E\n\nAllianz Amphitheater at 
- Riverfront\n350 Tredegar Street\, Richmond\, VA 23219
-LOCATION:Allianz Amphitheater at Riverfront\, 350 Tredegar Street\, Richmo
- nd\, VA 23219
-URL:https://www.ticketmaster.com/matchbox-twenty-30-richmond-virginia-07-1
- 4-2027/event/01006541D68FD83E
-END:VEVENT
 END:VCALENDAR
